@@ -1,0 +1,16 @@
+[
+    {
+        "nomi": "fernanda",
+        "sobrenome": "bicudo",
+        "empresa": "EBAC",
+        "endereco": "travessa 12",
+        "numero": "7",
+        "pais": "Brasil",
+        "cidade": "Rio de janeiro",
+        "estado": "Rio de janeiro",
+        "cep": "01000100",
+        "telefone": "2499999999",
+        "email": "teste@teste.com"
+         
+    }
+]
